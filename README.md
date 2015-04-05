@@ -111,6 +111,8 @@ By example please select you right jdk by edeting Makefile JAVA_HOME .
 
 A installation process could look like this:
 
+	./autoconf.sh
+	./configure
 	make
 	make install
 
